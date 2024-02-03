@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bialobao/bialobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Beatriz Sena, 27 yrs ☺️
 
-Here are some ideas to get you started:
+- 🏅 First Class Honours on my Science postgraduate in Data Analytics for Business
+- 💻 Currently, I'm working as a Sales Specialist, utilizing my expertise in python to forcast Sales.
+- 📈 ETL (Data Cleaning, Machine Learning, Dashboard)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-lob%C3%A3o/)
+- 📖 Currently studing MBA Data science and analytics at Esalq USP - Sao Paulo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 From Salvador Bahia Brazil, my place in the whole world 💗
+
+- 🐍 Python passionate
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bialobao&langs_count=8)
